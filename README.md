@@ -1,6 +1,6 @@
 # Meta-Workflow
 
-This organization's goal is to create the best workflow by combining open-source tools.
+This project's goal is to create the best workflow by combining open-source tools.
 
 ## Structure
 
